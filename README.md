@@ -11,7 +11,7 @@
 
 ## Sobre
 
-Demonstra a construção de um labirinto utilizando o algoritmo DFS. E sua travessia pelo algoritmo BSF
+Demonstra a construção de um labirinto utilizando o algoritmo DFS. E sua travessia pelo algoritmo BFS
 
 ## Apresentação
 
